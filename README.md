@@ -1,18 +1,19 @@
 <h1 align="center">Eber Cintra 👋</h1>
 
 <p align="center">
-  <em>Recém-formado no curso de TIC/Software Serratec - Programador Full Stack</em>
+  <em>Formado no curso de TIC/Software Serratec - Programador Full Stack</em>
 </p>
 
 ---
 
 ### Sobre Mim
 
-- 🔭 **Buscando uma oportunidade de trabalho** na área de tecnologia.
+- 🔭 **👨‍💻 Desenvolvedor Full Stack com especialização em aplicações web e mobile utilizando Java (Spring Boot), React e React Native. Formado pela Residência em TIC Software (Serratec/SENAI-RJ), com experiência sólida em APIs RESTful, PostgreSQL e autenticação com JWT.**
 - 🤟 **Fluente em Libras**.
 - 🤔 Interessado em colaborar com **projetos open source**.
-- 📫 [LinkedIn](https://www.linkedin.com/in/eber-cintra-261630246/) | **cintra.eber@gmail.com**  
+- 📫 [LinkedIn](https://www.linkedin.com/in/ebercintra/) | **cintra.eber@gmail.com**  
 - ⚡ **Curiosidade:** Amo passar o tempo em casa, tranquilo e relaxando.
+- [Meu Portifólio](https://portifolio-eber.netlify.app/)
   
 ---
 
