@@ -1,51 +1,78 @@
 <h1 align="center">Eber Cintra 👋</h1>
 
 <p align="center">
-  <em>Formado no curso de TIC/Software Serratec - Programador Full Stack</em>
+  <em>Desenvolvedor Full Stack - Java | Spring Boot | React/React Native | APIs REST | PostgreSQL | Aplicações Web e Mobile</em>
 </p>
 
 ---
 
 ### Sobre Mim
 
-- 🔭 **👨‍💻 Desenvolvedor Full Stack com especialização em aplicações web e mobile utilizando Java (Spring Boot), React e React Native. Formado pela Residência em TIC Software (Serratec/SENAI-RJ), com experiência sólida em APIs RESTful, PostgreSQL e autenticação com JWT.**
-- 🤟 **Fluente em Libras**.
-- 🤔 Interessado em colaborar com **projetos open source**.
-- 📫 [LinkedIn](https://www.linkedin.com/in/ebercintra/) | **cintra.eber@gmail.com**  
+- **👨‍💻 Desenvolvedor Full Stack com especialização em aplicações web e mobile utilizando Java (Spring Boot), React e React Native. Formado pela Residência em TIC Software (Serratec/SENAI-RJ), com experiência sólida em APIs RESTful, PostgreSQL e autenticação com JWT.**
+
+- **🚀 Durante minha jornada, desenvolvi projetos completos, como o Pretopolis Participa, um site para unir usuários e a prefeitura. No momento, estou desenvolvendo o Fruttyoog, aplicativo mobile de gestão com foco em gerenciamento de vendas de uma empresa familiar, unindo TypeScript, React Native e back-end em Spring Boot. Também participei de desafios práticos em equipe, aplicando boas práticas, versionamento com Git, e metodologias ágeis (Scrum).**
+
+- **🎯 Atualmente, busco integrar uma equipe de tecnologia onde eu possa contribuir ativamente, aplicar minhas habilidades técnicas e crescer como desenvolvedor. Meu foco está em soluções modernas, acessíveis e escaláveis para gerar impacto real nos produtos.**
 - ⚡ **Curiosidade:** Amo passar o tempo em casa, tranquilo e relaxando.
-- [Meu Portifólio](https://portifolio-eber.netlify.app/)
-  
+
+
 ---
 
 ### Minhas Stacks Principais
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/35ad83a0-a0dd-4ef9-85da-b23aba9b1e02" alt="HTML" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/d69d4482-f0d2-4596-aa0f-14b64d0b61c3" alt="CSS" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/adca6a08-ffa7-4f3d-a968-6fef50116499" alt="JavaScript" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/9e7dc038-755e-49cd-981b-00aa876b1159" alt="React" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/c03e6c57-4710-4750-9979-acc9732cc661" alt="ReactNative" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/99a67102-2fde-4829-9ee9-73a92a8f2888" alt="Node.js" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/5a84c2e7-2c39-4cfe-8add-f3ae85ef10d3" alt="Spring Boot" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/f3ce0885-a53c-43e4-921d-8849060f8d67" alt="Postgres" width="60" height="60"/>
-  <img src="https://github.com/user-attachments/assets/bd0ae53a-dc19-4094-9eaa-74cbda7a73b1" alt="Java" width="60" height="60"/>
+![Java]( https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React Native]( https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Spring]( https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![token]( https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+
+![React]( https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Postgres]( https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Styled](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
-</p>
+![TypeScript](  https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white48)
+
+![html](  https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+![office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+
 
 ---
 
 ### Conecte-se comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/eber-cintra-261630246/)  
-- ✉️ **cintra.eber@gmail.com**
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](organico_51@hotmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cintra.eber@gmail.com)
+
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebercintra/)
+
+[![Portifolio](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://portifolio-eber.netlify.app/)
+
 
 ---
 
 ### Alguns projetos durante o curso
 
-- [<img src="https://github.com/user-attachments/assets/1b5d9a43-e8c9-4fcc-adfa-727eaf026b22" alt="Caso Curunas" width="60" height="60"/> **Caso Curunas**](https://caso-corunas.netlify.app/index.html)
+[![Portifolio](https://github.com/user-attachments/assets/1b5d9a43-e8c9-4fcc-adfa-727eaf026b22)](https://caso-corunas.netlify.app/index.html)
 
-- [<img src="https://github.com/user-attachments/assets/5c3dc1ee-e72a-45c3-9ec8-91c9193e95bf" alt="Elibra" width="60" height="60"/> **Elibra**](https://cintra444.github.io/pagina_Elibra/)
+[![Portifolio](https://github.com/user-attachments/assets/5c3dc1ee-e72a-45c3-9ec8-91c9193e95bf)](https://cintra444.github.io/pagina_Elibra)
+
+
 
 
